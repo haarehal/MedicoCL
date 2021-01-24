@@ -1,0 +1,101 @@
+﻿@model IEnumerable<MedicoCL.Models.Patient>
+
+@{
+    ViewBag.Title = "PATIENTS RECORD";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="breadcrumb">LIST OF PATIENTS</h2>
+
+<p>
+    @Html.ActionLink("ADD NEW PATIENT", "New", "Patients", null, new { @class = "btn btn-primary" })
+</p>
+
+@{
+    string tableVisibility;
+    string titleVisibility;
+    int id = 1;
+
+    if (!Model.Any())
+    {
+        tableVisibility = "hidden";
+        titleVisibility = "visible";
+    }
+    else
+    {
+        tableVisibility = "visible";
+        titleVisibility = "hidden";
+    }
+}
+
+<h4 id="none-patients-title" style="visibility: @titleVisibility">There are no patients available.</h4>
+
+<table id="patients-table" class="table table-bordered table-hover text-center" style="visibility: @tableVisibility">
+    <thead>
+        <tr>
+            <th class="text-center">NUM</th>
+            <th class="text-center">FIRST NAME</th>
+            <th class="text-center">LAST NAME</th>
+            <th class="text-center">BIRTHDATE</th>
+            <th class="text-center">GENDER</th>
+            <th class="text-center">ADDRESS</th>
+            <th class="text-center">PHONE NUMBER</th>
+        </tr>
+    </thead>
+
+    <tbody id="tb-patients">
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <td>@(id++)</td>
+                <td>@patient.FirstName</td>
+                <td>@patient.LastName</td>
+                <td>@patient.Birthdate.ToString("dd/MMM/yyyy")</td>
+                <td>@patient.Gender.Name</td>
+                <td>@patient.Address</td>
+                <td>@patient.PhoneNumber</td>
+
+                <td>@Html.ActionLink("EDIT", "Edit", "Patients", new { id = patient.Id }, new { @class = "btn btn-warning" })</td>
+                @*<td>@Html.ActionLink("DELETE", "Delete", "Patients", new { id = patient.Id }, new { @class = "btn btn-danger" })</td>*@
+                <td><button data-patient-id="@patient.Id" class="btn btn-danger js-delete">DELETE</button></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $("#patients-table").on("click", ".js-delete", function () {
+                var button = $(this);
+
+                bootbox.confirm("Are you sure you want to delete this patient?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            url: "/api/patients/" + button.attr("data-patient-id"),
+                            method: "delete",
+                            success: function () {
+                                button.parents("tr").remove();
+
+                                var tbPatients = $("#tb-patients");
+
+                                if (tbPatients.children("tr").length == 0) {
+                                    $("#patients-table").remove();
+                                    $("#none-patients-title").css("visibility", "visible");
+                                }
+
+                                console.log("Patient successfully deleted!");
+                            },
+                            error: function (xhr, status, error) {
+                                if (xhr.responseText.includes("An error occurred while updating the entries.")) {
+                                    bootbox.alert("This patient can't be delete because there is existing appointment scheduled for him.");
+                                }                                
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}

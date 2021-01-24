@@ -1,0 +1,66 @@
+﻿@model MedicoCL.ViewModels.PatientFormViewModel
+
+@{
+    ViewBag.Title = Model.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="breadcrumb">@Model.PageTitle</h2>
+
+@{
+    string targetAction;
+
+    if (Model.Patient.Id == 0)
+    {
+        targetAction = "Create";
+    }
+    else
+    {
+        targetAction = "Update";
+    }
+}
+
+@using (Html.BeginForm(@targetAction, "Patients"))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Patient.FirstName)
+        @Html.TextBoxFor(model => model.Patient.FirstName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Patient.FirstName)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Patient.LastName)
+        @Html.TextBoxFor(model => model.Patient.LastName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Patient.LastName)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Patient.Birthdate)
+        @Html.TextBoxFor(model => model.Patient.Birthdate, new { @class = "form-control", @type = "date" })
+        @Html.ValidationMessageFor(model => model.Patient.Birthdate)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Patient.GenderId)
+        @Html.DropDownListFor(model => model.Patient.GenderId, new SelectList(Model.Genders, "Id", "Name"), "Select Gender", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Patient.GenderId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Patient.Address)
+        @Html.TextBoxFor(model => model.Patient.Address, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Patient.PhoneNumber)
+        @Html.TextBoxFor(model => model.Patient.PhoneNumber, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Patient.PhoneNumber)
+    </div>
+
+    @Html.HiddenFor(model => model.Patient.Id)
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-primary">SAVE</button>
+}
+
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" media="screen" runat="server" />
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

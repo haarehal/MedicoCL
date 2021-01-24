@@ -1,0 +1,61 @@
+﻿@model MedicoCL.ViewModels.AppointmentFormViewModel
+
+@{
+    ViewBag.Title = Model.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.PageTitle</h2>
+
+@{
+    string targetAction;
+
+    if (Model.Appointment.Id == 0)
+    {
+        targetAction = "Create";
+    }
+    else
+    {
+        targetAction = "Update";
+    }
+}
+
+@using (Html.BeginForm(@targetAction, "Appointments"))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Appointment.DateAndTime)
+        @Html.TextBoxFor(model => model.Appointment.DateAndTime, new { @class = "form-control", @type = "datetime-local" })
+        @Html.ValidationMessageFor(model => model.Appointment.DateAndTime)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Appointment.PatientId)
+        @Html.DropDownListFor(model => model.Appointment.PatientId, new SelectList(Model.Patients.Select(
+            p => new { Id = p.Id, DisplayName = p.FirstName + " " + p.LastName + " (" + p.Birthdate.ToString("dd/MMM/yyyy") + ")" }), "Id", "DisplayName"),
+            "Select Patient", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Appointment.PatientId)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Appointment.MedicId)
+        @Html.DropDownListFor(model => model.Appointment.MedicId, new SelectList(Model.Medics.Select(
+        m => new { Id = m.Id, DisplayName = m.FirstName + " " + m.LastName + " - " + m.Code }), "Id", "DisplayName"),
+        "Select Medic", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Appointment.MedicId)
+    </div>
+    <div class="checkbox">
+        <label id="urgent-label">
+            @Html.CheckBoxFor(model => model.Appointment.IsUrgent) Urgent Appointment
+        </label>
+    </div>
+
+    @Html.HiddenFor(model => model.Appointment.Id)
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-primary">SAVE</button>
+}
+
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" media="screen" runat="server" />
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

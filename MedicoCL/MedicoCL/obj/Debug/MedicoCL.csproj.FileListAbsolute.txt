@@ -1,0 +1,408 @@
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\MedicoCL.dll.config
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\MedicoCL.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\MedicoCL.pdb
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csc.exe
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csc.exe.config
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csc.rsp
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csi.exe
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csi.exe.config
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csi.rsp
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.AppContext.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Console.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Net.Http.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\vbc.exe
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\vbc.exe.config
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\vbc.rsp
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Antlr3.Runtime.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\EntityFramework.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\EntityFramework.SqlServer.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Newtonsoft.Json.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Owin.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Helpers.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Mvc.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Optimization.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Razor.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.Razor.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\WebGrease.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Helpers.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Mvc.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Optimization.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Razor.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.Razor.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Newtonsoft.Json.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Antlr3.Runtime.pdb
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\EntityFramework.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\EntityFramework.SqlServer.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.InitialModels.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.GenerateResource.cache
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.CopyComplete
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.pdb
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddGender.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddPatients.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddTitle.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddMedic.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddAppointment.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddTestResult.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.CorrectPropertyNamesForMedic.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.PopulateTitles.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.PopulateGenders.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddNamePropertyToPatient.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredDataAnnotationToPatientName.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredDataAnnotationToMedic.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddRelationshipBetweenAppointmentAndPatient.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddRelationshipBetweenTestResultAndAppointment.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Net.Http.Formatting.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Http.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Http.WebHost.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Net.Http.Formatting.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Http.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Http.WebHost.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\AutoMapper.dll
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\bin\AutoMapper.xml
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.CorrectRelationBetweenTestResultAndAppointment.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredAnnotationToDescription.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\MedicoCL.dll.config
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\MedicoCL.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\MedicoCL.pdb
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csc.exe
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csc.exe.config
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csc.rsp
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csi.exe
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csi.exe.config
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\csi.rsp
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.AppContext.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Collections.Immutable.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Console.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Globalization.Calendars.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.IO.Compression.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.IO.FileSystem.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Net.Http.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Net.Sockets.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Reflection.Metadata.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.ValueTuple.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XPath.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\vbc.exe
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\vbc.exe.config
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\vbc.rsp
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\VBCSCompiler.exe
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\roslyn\VBCSCompiler.exe.config
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Antlr3.Runtime.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\AutoMapper.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\EntityFramework.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\EntityFramework.SqlServer.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Core.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Cookies.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Facebook.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Google.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.OAuth.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Twitter.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Web.Infrastructure.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Newtonsoft.Json.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Owin.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Net.Http.Formatting.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Helpers.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Http.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Http.WebHost.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Mvc.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Optimization.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Razor.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.Deployment.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.Razor.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\WebGrease.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\AutoMapper.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Net.Http.Formatting.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Http.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Http.WebHost.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Helpers.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Mvc.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Optimization.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.Razor.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.Deployment.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\System.Web.WebPages.Razor.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Newtonsoft.Json.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Antlr3.Runtime.pdb
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\EntityFramework.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\EntityFramework.SqlServer.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Core.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Facebook.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Cookies.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Google.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Twitter.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.OAuth.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csprojAssemblyReference.cache
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.InitialModels.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddGender.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddPatients.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddTitle.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddMedic.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddAppointment.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddTestResult.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.CorrectPropertyNamesForMedic.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.PopulateTitles.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.PopulateGenders.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddNamePropertyToPatient.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredDataAnnotationToPatientName.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredDataAnnotationToMedic.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddRelationshipBetweenAppointmentAndPatient.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddRelationshipBetweenTestResultAndAppointment.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.CorrectRelationBetweenTestResultAndAppointment.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredAnnotationToDescription.resources
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.GenerateResource.cache
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.CoreCompileInputs.cache
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.CopyComplete
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.dll
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.pdb
+D:\REHA\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.RemoveTestResultIdFromAppointment.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.RemoveTestResultIdFromAppointment.resources
+C:\Users\Haris\Desktop\BERG - projekat\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.SeedUsers.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\MedicoCL.dll.config
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\MedicoCL.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\MedicoCL.pdb
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\csc.exe
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\csc.exe.config
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\csc.rsp
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\csi.exe
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\csi.exe.config
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\csi.rsp
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.AppContext.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Console.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Net.Http.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\vbc.exe
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\vbc.exe.config
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\vbc.rsp
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Antlr3.Runtime.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\AutoMapper.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\EntityFramework.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\EntityFramework.SqlServer.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Newtonsoft.Json.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Owin.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Net.Http.Formatting.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Helpers.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Http.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Http.WebHost.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Mvc.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Optimization.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Razor.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.WebPages.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.WebPages.Razor.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\WebGrease.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\AutoMapper.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Net.Http.Formatting.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Http.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Http.WebHost.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Helpers.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Mvc.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Optimization.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.Razor.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.WebPages.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\System.Web.WebPages.Razor.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Newtonsoft.Json.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Antlr3.Runtime.pdb
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\EntityFramework.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\EntityFramework.SqlServer.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csprojAssemblyReference.cache
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.InitialModels.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddGender.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddPatients.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddTitle.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddMedic.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddAppointment.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddTestResult.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.CorrectPropertyNamesForMedic.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.PopulateTitles.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.PopulateGenders.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddNamePropertyToPatient.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredDataAnnotationToPatientName.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredDataAnnotationToMedic.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddRelationshipBetweenAppointmentAndPatient.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.AddRelationshipBetweenTestResultAndAppointment.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.CorrectRelationBetweenTestResultAndAppointment.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ApplyRequiredAnnotationToDescription.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.RemoveTestResultIdFromAppointment.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.SeedUsers.resources
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.GenerateResource.cache
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.csproj.CopyComplete
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.dll
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.pdb
+C:\Users\Haris\Desktop\projekat\MedicoCL\MedicoCL\MedicoCL\obj\Debug\MedicoCL.Migrations.ResetIdCounterInTables.resources

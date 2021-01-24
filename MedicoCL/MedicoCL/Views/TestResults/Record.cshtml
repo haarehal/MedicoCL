@@ -1,0 +1,74 @@
+﻿@model MedicoCL.ViewModels.TestResultFormViewModel
+
+@{
+    ViewBag.Title = "TEST RESULT RECORD";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="breadcrumb">DETAILS FOR TEST RESULT</h2>
+
+@{
+    bool displayEditButton;
+    bool displayDetails;
+    string titleVisibility;
+
+    if (Model.TestResult == null)
+    {
+        displayEditButton = false;
+        titleVisibility = "visible";
+        displayDetails = false;
+    }
+    else
+    {
+        displayEditButton = true;
+        titleVisibility = "hidden";
+        displayDetails = true;
+    }
+}
+
+<p>
+    @if (!displayEditButton)
+    {
+        @Html.ActionLink("ADD NEW TEST RESULT", "New", "TestResults", new { appointmentId = Model.AppointmentId }, new { @class = "btn btn-primary" })
+    }
+    else
+    {
+        <span>
+            @Html.ActionLink("EDIT", "Edit", "TestResults", new { appointmentId = Model.AppointmentId }, new { @class = "btn btn-warning" })
+        </span>
+        <span>
+            <td><button id="delete-result-button" data-result-id="@Model.TestResult.TestResultId" class="btn btn-danger" style="margin-left: 1%">DELETE</button></td>
+        </span>
+    }
+</p>
+
+<h4 id="none-medics-title" style="visibility: @titleVisibility">There is no test result created.</h4>
+
+@if (displayDetails)
+{
+    <div>
+        <h5>Date of creation: </h5> 
+        <p class="breadcrumb" style="color: white">@Model.TestResult.DateOfCreation</p>
+        <h5>Description:</h5>
+        <p class="breadcrumb" style="color: white">@Model.TestResult.Description</p>
+    </div>
+}
+
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" media="screen" runat="server" />
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $("#delete-result-button").on("click", function () {
+                var button = $(this);
+
+                bootbox.confirm("Are you sure you want to delete this test result?", function (result) {
+                    if (result) {
+                       window.location.href = "/TestResults/Delete?testResultId=" + button.attr("data-result-id");
+                    }
+                });
+            });
+        });
+    </script>
+}

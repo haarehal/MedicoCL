@@ -1,0 +1,130 @@
+﻿@model IEnumerable<MedicoCL.Models.Appointment>
+
+@{
+    ViewBag.Title = "APPOINTMENTS RECORD";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="breadcrumb">LIST OF APPOINTMENTS</h2>
+
+<p>
+    @Html.ActionLink("ADD NEW APPOINTMENT", "New", "Appointments", null, new { @class = "btn btn-primary" })
+</p>
+
+@{
+    string tableVisibility;
+    string titleVisibility;
+    string thTdVisibility = "hidden";
+    int id = 1;
+
+    if (!Model.Any())
+    {
+        tableVisibility = "hidden";
+        titleVisibility = "visible";
+    }
+    else
+    {
+        tableVisibility = "visible";
+        titleVisibility = "hidden";
+    }
+}
+
+<h4 id="none-medics-title" style="visibility: @titleVisibility">There are no appointments available.</h4>
+
+@if (tableVisibility == "visible")
+{
+    <div id="date-filter-container">
+        <div>
+            <label for="date-begin-input">Begin date:</label>
+            <input id="date-begin-input" type="date" class="form-control" />
+        </div>
+
+        <div id="filter-button-container">
+            <button id="filter-button" type="button" class="btn btn-primary">FILTER</button>
+        </div>
+        <div>
+            <label for="date-end-inpu">End date:</label>
+            <input id="date-end-input" type="date" class="form-control" />
+        </div>
+    </div>
+
+    <table id="appointments-table" class="table table-bordered table-hover text-center">
+        <thead>
+            <tr>
+                <th class="text-center">URGENT</th>
+                <th class="text-center">NUM</th>
+                <th class="text-center">SCHEDULED DATE AND TIME</th>
+                <th class="text-center">PATIENT</th>
+                <th class="text-center">MEDIC IN CHARGE</th>
+            </tr>
+        </thead>
+
+        <tbody id="tb-medics">
+            @foreach (var appointment in Model)
+            {
+                <tr>
+                    @if (appointment.IsUrgent)
+                    {
+                        <td><img src="~/Content/Icons/icon-urgent.png" /></td>
+                    }
+                    else
+                    {
+                        <td><img src="~/Content/Icons/icon-not-urgent.png" /></td>
+                    }
+
+                    <td>@(id++)</td>
+                    <td>@appointment.DateAndTime</td>
+                    <td>@(appointment.Patient.FirstName + " " + appointment.Patient.LastName + " (" + appointment.Patient.Birthdate.ToString("dd/MMM/yyyy") + ")")</td>
+                    <td>@(appointment.Medic.FirstName + " " + appointment.Medic.LastName + " - " + appointment.Medic.Code)</td>
+
+                    <td>@Html.ActionLink("TEST RESULT", "Record", "TestResults", new { appointmentId = appointment.Id }, new { @class = "btn btn-success" })</td>
+                    <td>@Html.ActionLink("EDIT", "Edit", "Appointments", new { id = appointment.Id }, new { @class = "btn btn-warning" })</td>
+                    @*<td>@Html.ActionLink("CANCEL", "Cancel", "Appointments", new { id = appointment.Id }, new { @class = "btn btn-danger" })</td>*@
+                    <td><button data-appointment-id="@appointment.Id" class="btn btn-danger js-delete">CANCEL</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" media="screen" runat="server" />
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            
+            $("#filter-button").on("click", function () {
+                var button = $(this);
+
+                var dateBegin = $("#date-begin-input").val();
+                var dateEnd = $("#date-end-input").val();
+
+                if (dateBegin == "" || dateEnd == "") {
+                    bootbox.alert("Both dates need to be specified!");
+                    return;
+                }
+
+                if (Date.parse(dateBegin) > Date.parse(dateEnd)) {
+                    bootbox.alert("End date must be greater than or equal to start date!");
+                    return;
+                }
+
+                window.location.href = "/Appointments/Record?dateBegin=" + dateBegin + "&dateEnd=" + dateEnd;
+            });
+
+            $("#appointments-table").on("click", ".js-delete", function () {
+                var button = $(this);
+
+                bootbox.confirm("Are you sure you want to cancel this appointment?", function (result) {
+                    if (result) {
+                        var link = "@Url.Action("Cancel", "Appointments", new { id = "appointmentId" })";
+                        link = link.replace("appointmentId", button.attr("data-appointment-id"));
+
+                        window.location.href = link;
+                    }
+                });
+            });
+        });
+    </script>
+}

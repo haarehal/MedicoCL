@@ -1,0 +1,44 @@
+﻿@model MedicoCL.ViewModels.TestResultFormViewModel
+
+@{
+    ViewBag.Title = Model.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.PageTitle</h2>
+
+@{
+    string targetAction;
+
+    if (Model.TestResult == null || Model.TestResult.TestResultId == 0)
+    {
+        targetAction = "Create";
+    }
+    else
+    {
+        targetAction = "Update";
+    }
+}
+
+@using (Html.BeginForm(@targetAction, "TestResults"))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.TestResult.Description)
+        @Html.TextAreaFor(model => model.TestResult.Description, new { @class = "form-control", @style = "width: 100%; max-width: 100%;", @placeholder = "Enter details about test result!" })
+        @Html.ValidationMessageFor(model => model.TestResult.Description)
+    </div>
+
+    @Html.HiddenFor(model => model.TestResult.TestResultId)
+    @Html.HiddenFor(model => model.AppointmentId)
+    @Html.HiddenFor(model => model.TestResult.AppointmentId)
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-primary">SAVE</button>
+}
+
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" media="screen" runat="server" />
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
